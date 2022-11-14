@@ -91,3 +91,4 @@ zeep
 
 # advanced filter in admin
 django-admin-search-builder
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
