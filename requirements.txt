@@ -91,3 +91,4 @@ zeep
 
 # advanced filter in admin
 django-admin-search-builder
+twisted>=23.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
